@@ -1,0 +1,134 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Lénaïc Madec
+  given: Lénaïc
+  family: Madec
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: ''
+postnominals:
+  - PhD
+status:
+  icon: ""
+role: Battery Research Scientist
+bio: |
+  Research Scientist at CNRS, specialized in electrochemistry, 
+  material chemistry and surface analysis in the field 
+  of Li, K and solid-state batteries and supercaps.
+
+  52 publications (3 reviews), h-index: 24, 1740 citations, 2 patents.
+
+affiliations:
+  - name: CNRS - Institut des matériaux, Nantes
+    url: https://www.cnrs-imn.fr/en/
+
+links:
+  - icon: at-symbol
+    url: mailto:lenaic.madec@cnrs.fr
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/lénaïc-m-a76688242
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=EKitNRYAAAAJ&hl=en
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=49061359000
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-7681-1681
+
+interests:
+  - Interfacial phenomena / aging mechanisms in M-ions batteries 
+  - Development of sample preparation for surface analysis
+  - Development of *in situ* / *operando* methods for surface analysis
+
+education:
+  - degree: PhD Physical Chemistry / Electrochemistry
+    institution: Université de Nantes
+    end: 2012
+    summary: |
+      Title: Interest of molecular grafting for electrochemical energy storages.     
+      -> 5 papers - 2 international conferences - 1 patent.
+
+      {{< button url="/phd-thesis/LMadec-phd-thesis.pdf" new_tab="true" style="secondary" size="sm" icon="document-arrow-down" rounded="md" >}}Download L. Madec PhD thesis - PDF (french){{< /button >}}
+    #button:
+      #text: Download PhD Thesis (french)
+      #url: /phd-thesis/LMadec-phd-thesis.pdf
+      #icon: document-arrow-down
+  - degree: Master Materials Chemistry
+    institution: Université Pierre et Marie Curie
+    end: 2009
+  - degree: Bachelor Chemistry
+    institution: Université Francois Rabelais
+    end: 2007
+
+experience:
+  - role: Research Scientist 
+    org: CNRS
+    start: 2017-01-01
+    summary: |
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. <br>
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: Postdoc
+    org: ICGM Montpellier and IPREM Pau
+    start: 2015-10-01
+    end: 2016-09-30
+    summary: |
+      Worked on the effect of high temperature on a Li-ion anode material using XPS and GC/MS. <br>
+      -> 1 papers - 2 international conferences - 1 patent.
+  - role: Postdoc
+    org: Dalhousie University (Jeff Dahn's group), Halifax, Canada
+    start: 2013-09-01
+    end: 2015-08-31
+    summary: |
+      Worked on the effect of electrolyte additives on Li-ion pouch cells lifetime using XSP and GC/MS. <br>
+      -> 12 papers - 2 international conferences - training of a PhD student (XPS).
+  - role: Postdoc
+    org: IMN (CNRS)
+    start: 2013-01-15
+    end: 2013-08-31
+    summary: |
+      Worked on the electrochemical performance of semi-solid Li-based redox flow batteries. <br>
+      -> 4 papers - 1 international conference.
+
+skills:
+  - name: Electrochemistry
+    items:
+      - label: Electrode and electrolyte formulation      
+      - label: Halfs- and full-cells
+      - label: Swagelok, coin and pouch cells
+      - label: GC, CC-CV, storage, EIS, cyclic volta
+  - name: Surface analysis
+    items: 
+      - label: Air sensitive samples 
+      - label: Cross-section   
+      - label: XPS (ex situ / in situ / operando)
+      - label: Auger (ex situ / in situ / operando)
+  - name: Surface functionnalization
+    items: 
+      - label: Non covalent π-staking of carbons 
+      - label: Diazoniums on carbons, oxides, metals
+      - label: Phosphonates, carboxylates, silanes on oxides 
+  - name: Research & Communication
+    items:
+      - label: Writing / Conference presentations
+      - label: Project applications, management
+      - label: Supervision of PhD students
+
+languages:
+  - name: French
+    level: 5
+    label: Native
+  - name: English
+    level: 5
+    label: Fluent
+
+#awards:
+  #- title: awards
+    #awarder: zdzd
+    #date: 2019-01-01
+    #summary: dzdzd
+    #icon: hero/trophy
