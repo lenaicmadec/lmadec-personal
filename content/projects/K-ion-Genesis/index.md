@@ -31,7 +31,7 @@ Detrimental interactions (cross-talks) between electrodes were highlighted. In o
 - XPS (SEIs) and GC/MS/FTIR (Gases) analysis were combined for the first time to determine the complete degradation pathways of KPF6 and KFSI in EC:DEC in contact with K-metal and compared to LiPF6 in EC:DEC in contact with Li metal.
 ### 👤 My Contributions
 - The XPS - GC/MS/FTIR combination that for the time allowed obtening full degradation mechanisms of electrolytes.
-- Co-direction of 🎓 L. Caracciolo’s PhD thesis (>75%).br>
+- Co-direction of 🎓 L. Caracciolo’s PhD thesis (>75%).
 {{< button url="/phd-thesis/LCaracciolo-phd-thesis.pdf" new_tab="true" style="secondary" size="sm" icon="document-arrow-down" rounded="md" >}}Download L. Caracciolo PhD thesis - PDF (fr-en){{< /button >}}
 ### 📢 Communication
 📄 5 publications<br>
