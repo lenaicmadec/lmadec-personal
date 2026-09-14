@@ -67,11 +67,15 @@ experience:
     org: CNRS
     start: 2017-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. <br>
+      Specialized in electrochemistry, material chemistry and surface analysis in Li, K and solid-state batteries and supercaps. <br>
     button:
-      text: View portfolio
-      url: /
+      text: View projects
+      url: /projects/
       icon: hero/arrow-down-tray
+    button:
+      text: View papers
+      url: /papers/
+      icon: hero/arrow-down-tray      
   - role: Postdoc
     org: ICGM Montpellier and IPREM Pau
     start: 2015-10-01
