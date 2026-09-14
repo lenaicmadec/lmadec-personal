@@ -42,7 +42,7 @@ links:
     type: pdf  
   - icon: ' '
     name: 🔋 Cross-section  
-    url: /projects/Cross-section   
+    url: /projects/cross-section   
   - icon: ' '
     name: 🔋 RAISE  
     url: /projects/raise

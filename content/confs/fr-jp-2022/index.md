@@ -45,7 +45,7 @@ links:
     type: pdf  
   - icon: ' '
     name: 🔋 K-ion Genesis  
-    url: /projects/K-ion-Genesis 
+    url: /projects/k-ion-genesis 
   - icon: ' '
     name: 🔋 TROPIC  
     url: /projects/tropic
