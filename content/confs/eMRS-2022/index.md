@@ -45,7 +45,7 @@ links:
     url: /projects/Cross-section   
   - icon: ' '
     name: 🔋 RAISE  
-    url: /projects/RAISE
+    url: /projects/raise
 ---
 {{< button url="/presentations/eMRS-cross-section-2022.pdf" style="secondary" new_tab="true" icon="presentation-chart-bar" >}}
 Presentation PDF{{< /button >}}  

@@ -64,7 +64,7 @@ links:
    url: /projects/Cross-section/
  - icon: ' '
    name: 🪫 RAISE
-   url: /projects/RAISE/
+   url: /projects/raise
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

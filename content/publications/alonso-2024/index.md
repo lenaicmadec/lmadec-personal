@@ -62,7 +62,7 @@ url_video: ''
 links:
  - icon: ' '
    name: 🧪 Catalysis 
-   url: /projects/Catalysis 
+   url: /projects/catalysis 
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

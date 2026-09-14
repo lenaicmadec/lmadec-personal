@@ -45,7 +45,7 @@ links:
     type: pdf  
   - icon: ' '
     name: 🔋 RAISE  
-    url: /projects/RAISE
+    url: /projects/raise
 ---
 {{< button url="/presentations/IBA_solid-state-2022.pdf" style="secondary" new_tab="true" icon="presentation-chart-bar" >}}
 Presentation PDF{{< /button >}}  

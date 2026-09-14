@@ -67,7 +67,7 @@ url_video: ''
 links:
  - icon: ' '
    name: ✂️ Cross-section
-   url: /projects/Cross-section/
+   url: /projects/cross-section/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

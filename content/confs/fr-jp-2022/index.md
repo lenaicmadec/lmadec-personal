@@ -48,7 +48,7 @@ links:
     url: /projects/K-ion-Genesis 
   - icon: ' '
     name: 🔋 TROPIC  
-    url: /projects/TROPIC
+    url: /projects/tropic
 ---
 {{< button url="/presentations/fr-jp-kion-2022.pdf" style="secondary" new_tab="true" icon="presentation-chart-bar" >}}
 Presentation PDF{{< /button >}}    

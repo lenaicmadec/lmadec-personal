@@ -74,7 +74,7 @@ url_video: ''
 links:
  - icon: ' '
    name: 🔋 K-ion Genesis  
-   url: /projects/K-ion-Genesis 
+   url: /projects/k-ion-genesis 
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

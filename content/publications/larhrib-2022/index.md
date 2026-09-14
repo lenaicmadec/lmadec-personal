@@ -78,7 +78,7 @@ url_video: ''
 links:
  - icon: ' '
    name: 🔋 TROPIC  
-   url: /projects/TROPIC
+   url: /projects/tropic
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
